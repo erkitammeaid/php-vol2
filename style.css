@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    justify-content: center;
+
+}
+
+header {
+    padding: 2rem;
+    border: red 10px;
+}
+
+a {
+    color: black;
+    font-size: 25px;
+}
