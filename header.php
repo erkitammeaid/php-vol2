@@ -15,8 +15,8 @@
 include "function.php";
 $navItems = [
     "/"=>'kontaktid',
-
-    "index-body.php"=>'avaleht'
+    "about.php"=>'about',
+    "home.php"=>'avaleht'
 ];
 
 print_nav($navItems);
